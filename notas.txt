@@ -1,0 +1,1 @@
+Classes, parte fundamental do POO, sendo como moldes.
